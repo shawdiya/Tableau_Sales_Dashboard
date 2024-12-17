@@ -110,22 +110,10 @@ The following datasets were used to build the dashboards:
    ![Top 10 Customers](images/top_10_customer.png)  
 
 ---
-
-## 💡 **Comments and Suggestions**  
-
-- Place all screenshots under their respective headings for clarity.  
-- Use **"Select Year"** filters for dynamic insights.  
-- Add tooltips in Tableau to explain calculated fields like **CY Sales** and **Diff of Profit**.  
-- Highlight KPIs with **color-coded legends** for easier interpretation.  
-
----
-
 ## 🏁 **Conclusion**  
 
 The **Sales Dashboard** and **Customer Dashboard** effectively analyze year-over-year sales performance, profit trends, and customer data. By leveraging calculated fields, these dashboards provide dynamic insights for decision-makers.  
 
 ---
 
-<div align="center">  
-    🏆 **Created with Tableau for Advanced Data Analysis** 🏆  
-</div>
+
